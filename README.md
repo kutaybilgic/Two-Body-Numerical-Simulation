@@ -6,6 +6,12 @@ python libraries pygame (must be downloaded)
 
 to start simulation run two_body_animation.py and give necessary inputs
 
+Input example:
+the time step : 0.15
+the tlast : 100
+the mass ratio : 0.5
+the eccentricity = 0.7
+
 when simulation is running
 - press p for pause/unpause
 - press r for rewind
